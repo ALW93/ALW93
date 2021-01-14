@@ -1,4 +1,4 @@
-  <img align="left" alt="alyCat" src="https://i.gyazo.com/32b59be45864b8c45f5dd3efe19cd015.png"  />
+  <img align="left" alt="alyCat" src="https://i.gyazo.com/bbf81defb6b492101cf017a38c1991f2.png"  />
 <h1>Hi visitor, I'm Alycia! 👋🏻</h1>
 
 - 👧🏻 &nbsp; I’m currently working on a companion app for Teamfight Tactics by day...
