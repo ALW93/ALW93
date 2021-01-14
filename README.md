@@ -1,4 +1,5 @@
-  <img align="left" alt="alyCat" src="https://i.gyazo.com/94870b58b734d73ca6a394eb26fde0d2.png"  />
+<img align="left" alt="alyCat" src="https://i.gyazo.com/94870b58b734d73ca6a394eb26fde0d2.png"  />
+
 <h1>Hi visitor, I'm Alycia! 👋🏻</h1>
 
 - 👧🏻 &nbsp; I’m currently working on a companion app for Teamfight Tactics by day...
@@ -7,7 +8,7 @@
 - 👾 &nbsp; Video Game Enthusiast, Note to Self: Learn Linear Algebra and C++.
 - ☕ &nbsp; The happiness of your life depends upon the quality of your thoughts. ― Marcus Aurelius
 
-<h3> My Stack</h3>
+<h2>⚔️ My Weapons of Choice</h2>
 
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux)
@@ -27,6 +28,6 @@
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-goldenrod?style=flat&logo=adobe)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-magenta?style=flat&logo=adobe)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=alw93&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alw93&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
 
 
