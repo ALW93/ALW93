@@ -5,7 +5,7 @@
 - 👧🏻 &nbsp; I’m currently working on a companion app for Teamfight Tactics by day...
 - 🌙 &nbsp; ...and inhaling Data Structures and Algorithms by night
 - 💼 &nbsp; Software Engineer, Illustrator, and Cat Mom 💖
-- 👾 &nbsp; Video Game Enthusiast, Note to Self: Brush up on Discrete Math and learn C++.
+- 👾 &nbsp; Video Game Enthusiast, Note to Self: Learn Discrete Math and C++.
 - ☕ &nbsp; The happiness of your life depends upon the quality of your thoughts. ― Marcus Aurelius
 
 <h2>⚔️ My Weapons of Choice</h2>
