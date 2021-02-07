@@ -19,7 +19,7 @@
 ![Express](https://img.shields.io/badge/-Express-blue?style=flat&logo=express)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![SQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=SQL)
 ![PostgresQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Ruby](https://img.shields.io/badge/-Ruby-darkred?style=flat&logo=ruby)
